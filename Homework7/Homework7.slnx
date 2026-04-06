@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Homework7.ClassLibrary/Homework7.ClassLibrary.csproj" />
+  <Project Path="Homework7.ConsoleApp/Homework7.ConsoleApp.csproj" />
+</Solution>
