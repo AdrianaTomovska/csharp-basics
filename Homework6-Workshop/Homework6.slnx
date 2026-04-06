@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Homework6.ATM/Homework6.ATM.csproj" Id="2eb78d65-3d36-4af3-96e4-794ca19ab372" />
+  <Project Path="Homework6.NumberStats/Homework6.NumberStats.csproj" />
+  <Project Path="Homework6.UserForm/Homework6.UserForm.csproj" Id="a26bced5-91ed-46ba-b567-2999f9dcd8d0" />
+</Solution>
